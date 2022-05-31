@@ -1,0 +1,190 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+    
+    display: flex;
+
+}
+#conta{
+    background-color: black;
+    border-radius: 20px;
+    height: 600px;
+    width: 350px;
+    margin-left: 40%;
+    top: 10%;
+    display: flex;
+   
+}
+
+.container{
+    background-color: rgb(49, 21, 21);
+    width: 300px;
+    height: 560px;
+    margin-top: 20px;
+  margin-left: 25px;
+  border-radius: 20px;
+
+}
+.camera{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(49, 45, 49);
+    margin-left: 10px;
+    border-radius: 50%;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.ins{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(235, 214, 235);
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 50%;  
+}
+.hed{
+    background-color: black;
+  width: 100px;
+    height: 20px;
+    margin-left: 35%;
+    margin-top: -20px;
+    border-radius: 20px;
+}
+.login-box{
+    width: 250px;
+    height: 420px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 20px;    
+     background-color: rgb(85, 44, 44);
+     border-radius: 8px;
+
+ }
+ .log{
+   
+     width: 100px;
+     height: 40px;
+     margin-top: 10px;
+     margin-left: 10px;
+ }
+ .logoname{
+   
+    width: 100px;
+    height: 40px;
+    margin-top: -60px;
+    margin-left: 130px;
+    color: white;
+}
+.loginbox{
+    width: 250px;
+ height: 330px;
+    position: absolute;
+   margin-top: 90px;
+   
+     
+     margin-left: 25px;
+ }
+ .textbox{
+     width: 180px;
+     overflow: hidden;
+     font-size: 20px;
+      margin: 16px 0;
+      border: 16px 0;
+     border-bottom: 3px solid  #cec5c5;
+     margin-left: 35px;
+     
+  }
+  .loginbox h1{
+     float: left;
+     font-size: 40px;
+     border-bottom: 6px solid  #e7d9d9;
+     padding: 13px 0;
+     color: white;
+     margin-left: 35px;
+ 
+ }
+ .textbox .inpp input{
+ background: none;
+ outline: none;
+ border: none;
+ color: white;
+ text-align: center;
+ }
+.textbox .inpp{
+    margin-top: -22px;
+}
+ .textbox ::placeholder{
+     color: white;
+     font-size: 20px; 
+    }.loginbox h1{
+     float: left;
+     font-size: 40px;
+     border-bottom: 6px solid  #e7d9d9;
+     padding: 13px 0;
+     color: white;
+     margin-left: 35px;
+}
+ .textbox .inpp input{
+ background: none;
+ outline: none;
+ border: none;
+ color: white;
+ text-align: center;
+ }
+
+.textbox .inpp{
+    margin-top: -22px;
+}.textbox ::placeholder{
+     color: white;
+     font-size: 20px;     
+ }
+ .btn{
+     width: 180px;
+     margin-left: 35px;
+     margin-top: 15px;
+     height: 30px;
+     border-radius: 8px;
+     border: none;
+     font-size: 18px; 
+ }
+ 
+ .lik{
+     margin-top: 15px;
+ }
+ .lik a{
+     text-decoration: none;
+     cursor: pointer;
+     font-size: 15px;
+ }
+ .bttt{
+     margin-left: 35px;
+     width: 180px;
+ margin-top: 10px;
+ height: 30px;
+ font-size: 15px;
+ text-align: left;
+ padding: 0px;
+ background-color: blue;
+ border: none;
+ 
+ }
+ .bttt a{
+     padding: 5px;
+     text-decoration: none;
+    color: white;
+ }
+ .bttt i{
+     padding: 5px;
+     text-decoration: none;    
+ }
+ .ft{
+    background-color: black;
+    width: 80px;
+    height: 30px;
+     margin-top: 78vh;
+      margin-left: 30%;
+    border-radius: 20px;
+    border-style: groove;
+}
